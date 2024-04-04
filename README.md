@@ -33,7 +33,7 @@ Los usuarios deberían poder:
 ### Enlaces
 
 - URL de la solución: [https://github.com/Torres2000/space-tourism-website](https://github.com/Torres2000/space-tourism-website)
-- URL del sitio en vivo: [Agregue la URL del sitio en vivo aquí](https://your-live-site-url.com)
+- URL del sitio en vivo: [https://space-tourism-space-web-site.netlify.app/](https://space-tourism-space-web-site.netlify.app/)
 
 ## Mi proceso
 
@@ -44,7 +44,7 @@ Los usuarios deberían poder:
 - Caja flexible
 - Cuadrícula CSS
 - Flujo de trabajo móvil primero
-- [Reaccionar] (https://reactjs.org/) - Biblioteca JS
+- [React](https://reactjs.org/) - Biblioteca JS
 - [Next.js](https://nextjs.org/) - Marco de reacción
 - [Tailwind CSS](https://tailwindcss.com/) - Para estilos
 
@@ -68,13 +68,9 @@ useEffect(() => {
 }, []);
 ```
 
-### Desarrollo continuo
-
-Necesito aprender mas sobre el consumo de API en react
-
 ## Autor
 
-- Sitio web - [Pedro Torres](https://portafoliowebdevjose.netlify.app//)
+- Sitio web - [Pedro Torres](https://portafoliowebdevjose.netlify.app)
 - Mentor de frontend - [@Torres2000](https://www.frontendmentor.io/profile/Torres2000)
 
 ## Agradecimientos
